@@ -1,2 +1,2 @@
 # aniket-docs
-Docuements for Aniket
+Documents for Aniket
