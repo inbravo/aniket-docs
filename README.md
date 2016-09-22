@@ -1,2 +1,2 @@
-# aniket-docs
-Documents for Aniket
+# kids-docs
+Documents for my kids educational and learning purpose 
