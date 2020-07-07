@@ -1,0 +1,39 @@
+<HTML>
+<HEAD><title>Gaming</TITLE></HEAD>
+<BODY BGCOLOR=BLACK TEXT=RED TOPMARGIN=10 BOTTOMMARGIN=10 LEFTMARGIN=10 RIGHTMARGIN=10>
+<H1 ALIGN=CENTER>
+<MARQUEE BEHAVOIR=ALTERNATE DIRECTION=RIGHT SCROLLAMOUNT=1 BGCOLOR=BLUE WIDTH=20% HEIGHT=10%>Gaming</MARQUEE></H1>
+<HR WIDTH=20% ALIGN=CENTER COLOR=RED>
+<HR SIZE=3 COLOR-BLUE>
+Gaming refers to playing electronic games, whether through consoles, computers, mobile phones or another medium altogether. Gaming is a nuanced term that suggests regular gameplay, possibly as a hobby. Although traditionally a solitary form of relaxation, online multiplayer video games have made gaming a popular group activity as well.<BR>
+A person who is into gaming is often called a gamer or hardcore gamer.
+<H3 ALIGN=LEFT>Gaming Computer</H3>
+<P ALIGN=LEFT>A gaming computer, also known as a gaming PC or gaming rig, is a personal computer designed for playing video games that require a high amount of computing power.<BR>
+A modern gaming computer is comparable to a mainstream computer with the addition of performance-oriented components, such as high-performance video cards and high core-count central processing units, that sacrifice power efficiency for raw performance.<BR>
+Gaming computers are often associated with enthusiast computing due to an overlap in interests; however, while a gaming computer is built to achieve performance for actual gameplay, enthusiast PCs are built to maximize performance, using games as a real application benchmark.<BR>
+Whereas enthusiast PCs are high-end by definition, gaming PCs can be subdivided into low-end, mid-range, and high-end markets.<BR>
+Video card manufacturers earn the bulk of their revenue from their low-end and mid-range offerings. Gaming PCs are often also suitable for other intensive tasks, like video editing.<BR>
+Because of the large variety of parts that can go into a computer built to play video games, gaming computers are frequently custom-assembled, rather than pre-assembled, either by gaming and hardware enthusiasts or by companies that specialize in producing custom gaming machines.<BR>
+In order to generate interest, gaming computer manufacturers that sell complete systems often produce boutique models, allowing them to compete on aesthetic design in addition to the hardware inside.</P>
+<H3 ALIGN=LEFT>Gamers</H3>
+<FONTFACE=MONOTYPE CORSIVA SIZE=5 COLOR=RED>
+<P><B><I><U>A gamer (sometimes also called player or electronic athlete and eathlete) is a person who plays interactive games, especially video games, tabletop role-playing games, and skill-based card games, and who plays for usually long periods of time.<BR>
+Some gamers are competitive, meaning that they can compete in some games for money.<BR>
+In some countries, such as the UK and Australia, the term "gaming" can refer to legalized gambling, which can take both traditional and digital forms, through online gambling.<BR>There are many different gamer communities around the world.<BR>
+Since the advent of the Internet, many communities take the form of Internet forums or YouTube or Twitch virtual communities, as well as in-person social clubs.<BR>
+Originally a hobby, it has evolved into a profession for some.<BR>
+There are ten types of gamers</U></I></B></P></FONT>
+<OL TYPE=DISC>
+<LI>Super Competitive Gamer
+<LI>The Backseat Gamer
+<LI>The Gambler
+<LI>Old School Gamer
+<LI>Destructive Gamer
+<LI>Trophy Gamer
+
+
+
+
+
+
+    
